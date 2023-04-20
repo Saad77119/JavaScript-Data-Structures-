@@ -8,5 +8,7 @@ Javascript algorithums for basic Problems :)
     - Factorial
     - Cycle Detection
     - Celllar Automata 
+- Greedy
+    - Boyer moore majority vote 
 
 
